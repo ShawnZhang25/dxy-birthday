@@ -6,16 +6,16 @@
       <div class="section">
         <div class="ly-box01">
           <div class="ly-txt01">
-            <p class="ly-stxt01">xxxxxxxxx</p>
-            <p class="ly-stxt02">xxxxxxxxxxxxxxxxxxx</p>
-            <p class="ly-stxt03">xxxxxxxxxxxxxxxxxxx</p>
-            <p class="ly-stxt04">xxxxxxxxxxxxxxxxxxx</p>
-            <p class="ly-stxt05">xxxxxxxxxxxxxxxxxxx</p>
-            <p class="ly-stxt06">xxxxxxxxxxxxxxxxxxx</p>
-            <p class="ly-stxt07">祝：生日快乐！</p>
+            <p class="ly-stxt01">看花的娇艳，思念着你的容颜</p>
+            <p class="ly-stxt02">望流云飘逸，惦记着你的佳期</p>
+            <p class="ly-stxt03">轻轻地屏住呼吸，距离太远还是无法感受到你</p>
+            <p class="ly-stxt04">可祝福与你形影不离，在你的生日到来之际，诚挚地献上我的三个祝愿：</p>
+            <p class="ly-stxt05">一愿你身体健康</p>
+            <p class="ly-stxt06">二愿你幸福快乐</p>
+            <p class="ly-stxt07">三愿你考研顺利，金榜题名！</p>
           </div>
         </div>
-      </div> 
+      </div>
 
       <!--第二屏-->
       <div class="section">
@@ -23,15 +23,14 @@
         <div class="timepoint11"></div>
         <div class="ly-box11">
           <div class="ly-txt11">
-              2022-05-21
+              感恩相遇
           </div>
           <div class="ly-txt12">
-            <p>xxxxxxxxxxxxxxxxxxx</p>
-            <p>xxxxxxxxxxxxxxxxxxx</p>
-            <p>xxxxxxxxxxxxxxxxxxx</p>
-            <p>xxxxxxxxxxxxxxxxxxx</p>
-            <p>xxxxxxxxxxxxxxxxxxx</p>
-            <p>xxxxxxxxxxxxxxxxxxx</p>
+            <p>宫崎骏曾说过一句话，</p>
+            <p>遇见都是天意，</p>
+            <p>拥有的都是幸运，</p>
+            <p>世界上有一千种等待，</p>
+            <p>最好的那种叫“未来可期。”</p>
           </div>
         </div>
         <div class="ly-triangle11"></div>
@@ -43,14 +42,17 @@
           <div class="timepoint21"></div>
           <div class="ly-box21">
             <div class="ly-txt21">
-              2022-05-25
+              感谢陪伴
             </div>
             <div class="ly-txt22">
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
+              <p>人生匆匆数年，</p>
+              <p>慕然回首：</p>
+              <p>有些人，</p>
+              <p>从未走远；</p>
+              <p>有些情，</p>
+              <p>从未变淡；</p>
+              <p>有些缘，</p>
+              <p>依然温暖心间。</p>
             </div>
           </div>
           <div class="ly-triangle21"></div>
@@ -62,14 +64,20 @@
           <div class="timepoint21"></div>
           <div class="ly-box21">
             <div class="ly-txt21">
-              2022-08-07
+              祝你考研一切顺利
             </div>
             <div class="ly-txt22">
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
+              <p>满船清梦压星河，偷捧时间煮酒喝。</p>
+              <p>他们试图埋掉你，但你要知道你是种子。</p>
+              <p>你是要长大的小朋友，拜托撑着别倒下去。</p>
+              <p>满怀希望就会所向披靡。</p>
+              <p>生活本沉闷，跑起来才有风。</p>
+              <p>青山不改，绿水长流。</p>
+              <p>你系最迷人噶，你知道嘛。</p>
+              <p>没关系的，你就在我的宇宙绽放灿烂的光芒吧。</p>
+              <p>你被安稳地爱着，应该有做任何事的勇气。</p>
+              <p>你要走，走到灯火通明。</p>
+              <p>心中无畏，星辰生花。</p>
             </div>
           </div>
           <div class="ly-triangle21"></div>
@@ -80,14 +88,16 @@
         <div class="timeline"></div>
           <div class="timepoint21"></div>
           <div class="ly-box21">
-            <div class="ly-txt21">
-              2022-09-09
-            </div>
             <div class="ly-txt22">
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
+              <p>外界的声音都是参考，你不开心，就不要参考。</p>
+              <p>煙火泛滥，人间清欢。</p>
+              <p>你特别好，特别温柔，特别值得。</p>
+              <p>愿你野蛮生长，最终璀璨人生。</p>
+              <p>如果你累了，就拉上窗帘关上手机，放空自己去睡觉，难熬的日子总需要更多的精力。</p>
+              <p>那我祝你万事胜意吧 万事胜意的意思就是一切都比你自己所期待的，还要好一点点，一点点就够了。</p>
+              <p>祝你此生，梦想光芒，野蛮生长，永不彷徨。</p>
+              <p>悄悄地努力，悄悄地变厉害。</p>
+              <p>美好的日月星辰在前方等你去欣赏啊。</p>
             </div>
           </div>
           <div class="ly-triangle21"></div>
@@ -99,88 +109,20 @@
           <div class="timepoint21"></div>
           <div class="ly-box21">
             <div class="ly-txt21">
-              2023-01-29
+              生日快乐
             </div>
             <div class="ly-txt22">
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
+              <p>至于未来会怎样，要用力走下去才知道。‌</p>
+              <p>记住先变成更喜欢的自己，</p>
+              <p>再遇到一个不需要取悦的人。</p>
+              <p>愿今后的每一岁好花常有，</p>
+              <p>好梦长留，不负流年不负自己。</p>
+              <p>生日快乐，</p>
+              <p>我亲爱的妹妹。</p>
             </div>
           </div>
           <div class="ly-triangle21"></div>
       </div>
-
-
-      <!--第七屏-->
-      <div class="section">
-        <div class="timeline"></div>
-          <div class="timepoint21"></div>
-          <div class="ly-box21">
-            <div class="ly-txt21">
-              2023-06-27
-            </div>
-            <div class="ly-txt22">
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-            </div>
-          </div>
-          <div class="ly-triangle21"></div>
-      </div>
-
-
-            <!--第七屏-->
-      <div class="section">
-        <div class="timeline"></div>
-          <div class="timepoint21"></div>
-          <div class="ly-box21">
-            <div class="ly-txt21">
-              2023-08-20
-            </div>
-            <div class="ly-txt22">
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-            </div>
-          </div>
-          <div class="ly-triangle21"></div>
-      </div>
-
-       <!--第七屏-->
-      <div class="section">
-        <div class="timeline"></div>
-          <div class="timepoint21"></div>
-          <div class="ly-box21">
-            <div class="ly-txt21">
-              2023-10-06
-            </div>
-            <div class="ly-txt22">
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-              <p>xxxxxxxxxxxxxxxxxxx</p>
-            </div>
-          </div>
-          <div class="ly-triangle21"></div>
-      </div>
-
-             <!--第八屏-->
-      <div class="section">
-        <div class="timeline"></div>
-          <div class="timepoint21"></div>
-          <div class="ly-box21">
-            <div class="ly-txt21">
-              to be continued
-            </div>
-          </div>
-          <div class="ly-triangle21"></div>
-      </div>
-
-
-
 
       </full-page>
 
@@ -197,7 +139,7 @@
     <li></li>
     <li></li>
   </ul>
-    
+
 </div>
 </div>
 </template>
@@ -479,7 +421,7 @@ export default {
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     border-radius: 10px;
-    transition: all 0.3s; 
+    transition: all 0.3s;
   }
   .active .timepoint {
     opacity: 1;
@@ -532,12 +474,12 @@ export default {
   }
   /*小三角*/
   .ly-triangle11 {
-    width: 0; 
-    height: 0; 
-    border-top: 20px solid transparent; 
-    border-right: 22px solid white; 
+    width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-right: 22px solid white;
     border-bottom: 20px solid transparent;
-    border-radius: 2px; 
+    border-radius: 2px;
     margin-left: 24px;
     position: absolute;
     right: 77%;
@@ -640,12 +582,12 @@ export default {
   }
   /*小三角*/
   .ly-triangle21 {
-    width: 0; 
-    height: 0; 
-    border-top: 20px solid transparent; 
-    border-right: 22px solid white; 
+    width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-right: 22px solid white;
     border-bottom: 20px solid transparent;
-    border-radius: 2px; 
+    border-radius: 2px;
     margin-left: 24px;
     position: absolute;
     right: 77%;

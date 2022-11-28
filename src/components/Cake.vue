@@ -167,7 +167,7 @@
         </svg>
     </div>
     <div class="name">
-        宝贝
+        妹妹
     </div>
     <div class="happy">
         <img :src="png_url">

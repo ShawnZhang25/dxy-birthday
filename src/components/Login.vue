@@ -4,8 +4,8 @@
       <div class="container">
         <h1 id="h"></h1>
         <form class="form">
-          <input name="userName" type="text" placeholder="姓名3" v-model="username" >
-          <input name="pwd" type="password" placeholder="密码" v-model="password" >
+          <input name="userName" type="text" placeholder="董心怡" v-model="username" >
+          <input name="pwd" type="password" placeholder="生日" v-model="password" >
           <button type="button" @click="btnclick" >进入</button>
         </form>
       </div>
@@ -35,18 +35,22 @@ export default {
   },
   data () {
     return {
-      username: '',
+      username: '董心怡',
       password: ''
     }
   },
   methods: {
     btnclick () {
-      if (this.username === 'root' && this.password === 'root') {
+      if (this.username === '董心怡' && this.password === '1129') {
         $('audio#cake-music')[0].play()
         let url = '/cake'
         this.$router.push({ path: url })
       } else {
-        alert('用户名或密码不正确！')
+        if (this.username !== '董心怡') {
+          alert('你是谁？怎么连我家妹妹名字都输错了')
+        } else {
+          alert('是你今年的阴历生日哦!（4位数字）')
+        }
       }
     }
   }

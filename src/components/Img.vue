@@ -10,9 +10,6 @@
         <li class="img-li"><img :src="imgurl.img6" alt=""></li>
         <li class="img-li"><img :src="imgurl.img7" alt=""></li>
         <li class="img-li"><img :src="imgurl.img8" alt=""></li>
-        <li class="img-li"><img :src="imgurl.img9" alt=""></li>
-        <li class="img-li"><img :src="imgurl.img10" alt=""></li>
-        <li class="img-li"><img :src="imgurl.img11" alt=""></li>
       </ul>
     </div>
     <div class="htmleaf-container">
@@ -31,7 +28,7 @@
         </ul>
       </div>
     </div>
-    <div class='end' @click="btnclick" >开启浪漫回忆</div>
+    <div class='end' @click="btnclick" >开启属于你的祝福</div>
   </div>
 </template>
 
@@ -45,9 +42,6 @@ import img5 from '../assets/img/5.jpg'
 import img6 from '../assets/img/6.jpg'
 import img7 from '../assets/img/7.jpg'
 import img8 from '../assets/img/8.jpg'
-import img9 from '../assets/img/9.jpg'
-import img10 from '../assets/img/10.jpg'
-import img11 from '../assets/img/11.jpg'
 
 export default {
   components: {
@@ -67,10 +61,7 @@ export default {
         img5: img5,
         img6: img6,
         img7: img7,
-        img8: img8,
-        img9: img9,
-        img10: img10,
-        img11: img11
+        img8: img8
       }
     }
   },
