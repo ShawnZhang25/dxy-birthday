@@ -1,6 +1,6 @@
 <template>
   <div class="label">
-    <iframe width="100%" style="height: 100vh;border: none;" src="../../static/label.html"></iframe>
+    <iframe width="100%" style="height: 100vh;border: none;" src="/dxy-birthday/index/static/label.html"></iframe>
   </div>
 </template>
 
