@@ -12,7 +12,7 @@ export default {
       this.$router.push({
         path: '/img'
       })
-    }, 16000)
+    }, 18000)
   }
 }
 </script>
