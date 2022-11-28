@@ -4,7 +4,7 @@
       <div class="container">
         <h1 id="h"></h1>
         <form class="form">
-          <input name="userName" type="text" placeholder="姓名" v-model="username" >
+          <input name="userName" type="text" placeholder="姓名1" v-model="username" >
           <input name="pwd" type="password" placeholder="密码" v-model="password" >
           <button type="button" @click="btnclick" >进入</button>
         </form>
