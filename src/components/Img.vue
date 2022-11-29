@@ -188,7 +188,6 @@ export default {
       transform: translateY(85px);
   }
   .container {
-      max-width: 600px;
       margin: 0 auto;
       margin-top: 7%;
       padding: 80px 0;
